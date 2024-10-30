@@ -42,3 +42,5 @@ Une application Java de gestion bancaire avec interface graphique moderne et int
 ## Installation
 
 1. Clonez le repository :
+   
+   git clone https://github.com/CedricHaegele/simulateurBanque.git
