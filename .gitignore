@@ -1,0 +1,18 @@
+# Fichiers compilés
+*.class
+out/
+target/
+
+# Fichiers de données
+data/
+
+# Fichiers IDE
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# Fichiers système
+.DS_Store
+Thumbs.db 
